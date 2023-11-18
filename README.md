@@ -1,6 +1,7 @@
 # Simulation
 
-This course is from the final semester of my studies. It is one of the most challenging courses that I encountered during my bachelor's degree.
+This course is from the final semester of my studies. It is one of the most demanding courses that I encountered during my bachelor's degree. It comprises 8 challenging projects, which correspond to 100% of the total grade.
+
 
 ## Syllabus Summary:
 
