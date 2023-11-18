@@ -1,6 +1,6 @@
 # Simulation
 
-This course is one of the most challenging courses that I encountered during my bachelor's degree.
+This course is from the final semester of my studies. It is one of the most challenging courses that I encountered during my bachelor's degree.
 
 ## Syllabus Summary:
 
